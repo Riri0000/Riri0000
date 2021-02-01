@@ -1,16 +1,18 @@
-### Hi there 👋 I'm Sari
+### Hi there :cat:I'm Sari
 
-<!--
-**Riri0000/Riri0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://raw.githubusercontent.com/Riri0000/Riri0000/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-Here are some ideas to get you started:
+## Blog
+https://study-diary.hatenadiary.jp/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/ririko63279
