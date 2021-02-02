@@ -8,12 +8,12 @@ https://min-kakeibo.work/
 <br>
 <br>
 
-## :sunflower:Latest Blog Posts
+## :cherry_blossom:Latest Blog Posts
 https://study-diary.hatenadiary.jp/
 <br>
 <br>
 
-## :tulip:Reach me
+## :cherry_blossom:Reach me
 
 [![Twitter][1.2]][1]
 
