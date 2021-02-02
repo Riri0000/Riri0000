@@ -5,16 +5,15 @@
 
 ## Portfolio:moneybag:
 https://min-kakeibo.work/
-「みんなの家計簿」は、自分と他人の家計簿に興味がある人達に、
-お金と向き合う場を提供する家計簿公開サービスです。
-<p>:star:ユニークユーザー数1,413人</p>
-<p>:star:登録者数116人</p>
-(2021年2月1日現在）<br>
+<p>「みんなの家計簿」は、自分と他人の家計簿に興味がある人達に、
+お金と向き合う場を提供する家計簿公開サービスです。</p>
+<p>:star:UU:1,413</p>
 <br>
 <br>
 
 ## My Programming Blog:blue_book:
 https://study-diary.hatenadiary.jp/
+<p>:star:78 Posts</p>
 <br>
 <br>
 
