@@ -1,19 +1,19 @@
-### Hi there :cat:I'm Sari
+### Hi there.I'm Sari
 
 [![](https://raw.githubusercontent.com/Riri0000/Riri0000/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <br>
 
-## :cherry_blossom:Portfolio
+## Portfolio
 https://min-kakeibo.work/
 <br>
 <br>
 
-## :cherry_blossom:Latest Blog Posts
+## Blog Posts
 https://study-diary.hatenadiary.jp/
 <br>
 <br>
 
-## :cherry_blossom:Reach me
+## Reach me
 
 [![Twitter][1.2]][1]
 
