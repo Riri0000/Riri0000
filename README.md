@@ -10,12 +10,10 @@ https://min-kakeibo.work/
 お金と向き合う場を提供する家計簿公開サービスです。</p>
 <p>:star:UU:1,413</p>
 <br>
-<br>
 
 ## My Programming Blog:blue_book:
 https://study-diary.hatenadiary.jp/
 <p>:star:78 Posts</p>
-<br>
 <br>
 
 ## Reach me:email:
