@@ -2,12 +2,15 @@
 
 [![](https://raw.githubusercontent.com/Riri0000/Riri0000/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Blog
+## :cherry_blossom:Portfolio
+https://min-kakeibo.work/
+
+## :sunflower:Latest Blog Posts
 https://study-diary.hatenadiary.jp/
 
-<!-- Actual text -->
+## :tulip:Reach me
 
-You can find me on [![Twitter][1.2]][1]
+[![Twitter][1.2]][1]
 
 <!-- Icons -->
 
