@@ -24,5 +24,7 @@ https://study-diary.hatenadiary.jp/
  <a href="http://qiita.com/riri34566">
     <img height="20" src="https://qiita-badge.apiapi.app/s/riri34566/posts.svg" />
  </a>
- 
+ <br>
+ <br>
  [Wantedly](https://www.wantedly.com/id/sari_oo)
+ <br>
