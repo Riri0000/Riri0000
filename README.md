@@ -8,7 +8,7 @@
 https://min-kakeibo.work/
 <p>「みんなの家計簿」は、自分と他人の家計簿に興味がある人達に、
 お金と向き合う場を提供する家計簿公開サービスです。</p>
-<p>:star:UU:1,413</p>
+<p>:star:UU:over 1,500</p>
 <br>
 
 ## My Programming Blog:blue_book:
