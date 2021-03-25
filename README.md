@@ -17,14 +17,6 @@ https://study-diary.hatenadiary.jp/
 <br>
 
 ## Reach me :sunflower:
-  <a href="http://twitter.com/ririko63279">
-    <img height="20" src="https://img.shields.io/twitter/follow/ririko63279?label=Twitter&logo=twitter&style=flat" />
-  </a>
-
  <a href="http://qiita.com/riri34566">
     <img height="20" src="https://qiita-badge.apiapi.app/s/riri34566/posts.svg" />
  </a>
- <br>
-
- [Wantedly](https://www.wantedly.com/id/sari_oo)
- <br>
